@@ -1,4 +1,4 @@
-<h1> Hello, Welcome to Simple DevOps Project Serge !!   </h1>
-<h2> Data Service Group is your learning partner </h2>
-<h2> Glad to see you here </h2>
-<h1> Good job Serge on learning Devops</h1>
+<h1> THIS IS TEST FOR THE CNT APP DEPLOYMENT   </h1>
+<h2> I KNOW I WILL GET 6 FIGURE JOB SOON  </h2>
+<h2> AND I AM DOING THIS WITH MY HUBBY AND MY BEST FRIEND</H2>
+<h1> MAY GOD BLESS OUR BRAINS AND THE LABOR OF OUR HANDS </H1>
